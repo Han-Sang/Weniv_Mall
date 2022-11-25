@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Weniv_Mall/static/js/main.0acb44ac.js",
+    "static/media/icon-shopping-cart.svg": "/Weniv_Mall/static/media/icon-shopping-cart.18235e9416ff46dab4873fcc9fa86f00.svg",
+    "static/media/icon-heart-on.svg": "/Weniv_Mall/static/media/icon-heart-on.0f6bbd4903724c3c16387efb41f92a03.svg",
+    "static/media/icon-heart.svg": "/Weniv_Mall/static/media/icon-heart.f68a21bc77488dac8c34b7650d1237ab.svg",
+    "index.html": "/Weniv_Mall/index.html",
+    "main.0acb44ac.js.map": "/Weniv_Mall/static/js/main.0acb44ac.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0acb44ac.js"
+  ]
+}
